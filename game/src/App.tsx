@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react"
-import { HangmanDrawing } from "./HangmanDrawing"
-import { HangmanWord } from "./HangmanWord"
+import { HangmanDrawing } from "./components/HangmanDrawing"
+import { HangmanWord } from "./components/HangmanWord"
 import { Keyboard } from "./Keyboard"
 import words from "./wordList.json"
 
